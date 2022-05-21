@@ -23,6 +23,8 @@ given below-
 Layer details:
 
 
+`Input Layer` ->  `Rescaling` -> `Normalization` -> `Zero Padding` -> `Conv2D` -> `Batch Normalization` -> `Activation`
+
 
 Models' details:
 
