@@ -26,17 +26,16 @@ Layer details:
 
 Models' details:
 
-| Base Model      | Resolution     |
-|                 | (Input shapes) |
-| --------------- | -------------- |
-| `EfficientNetB0`| 224            |
-| `EfficientNetB1`| 240            |
-| `EfficientNetB2`| 260            |
-| `EfficientNetB3`| 300            |
-| `EfficientNetB4`| 380            |
-| `EfficientNetB5`| 456            |
-| `EfficientNetB6`| 528            |
-| `EfficientNetB7`| 600            |
+|   Base Model    | Resolution (Input shapes)|
+| --------------- | ------------------------ |
+| `EfficientNetB0`|          224             |
+| `EfficientNetB1`|          240             |
+| `EfficientNetB2`|          260             |
+| `EfficientNetB3`|          300             |
+| `EfficientNetB4`|          380             |
+| `EfficientNetB5`|          456             |
+| `EfficientNetB6`|          528             |
+| `EfficientNetB7`|          600             |
 
 
 
